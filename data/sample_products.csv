@@ -1,0 +1,51 @@
+product_id,name,category,price,rating,views,purchases
+P001,Wireless Bluetooth Headphones,Electronics,79.99,4.5,5420,342
+P002,Smart Fitness Watch,Electronics,129.99,4.3,8932,567
+P003,Cotton T-Shirt,Clothing,19.99,4.2,3210,892
+P004,Python Programming Book,Books,39.99,4.8,2134,456
+P005,Yoga Mat,Sports,29.99,4.6,4567,678
+P006,Coffee Maker,Home & Kitchen,89.99,4.4,6789,234
+P007,Running Shoes,Sports,119.99,4.7,9876,543
+P008,Denim Jeans,Clothing,59.99,4.1,5432,321
+P009,Laptop Stand,Electronics,34.99,4.5,4321,234
+P010,Cookbook Collection,Books,49.99,4.6,1987,187
+P011,Resistance Bands,Sports,24.99,4.4,3456,456
+P012,Blender,Home & Kitchen,69.99,4.3,5678,345
+P013,Hoodie,Clothing,44.99,4.5,6543,432
+P014,Wireless Mouse,Electronics,24.99,4.2,7654,765
+P015,Science Fiction Novel,Books,14.99,4.7,2345,543
+P016,Dumbbells Set,Sports,89.99,4.6,4567,234
+P017,Bed Sheets Set,Home & Kitchen,39.99,4.4,5678,456
+P018,Leather Jacket,Clothing,199.99,4.8,3456,123
+P019,USB-C Cable,Electronics,12.99,4.1,9876,987
+P020,Mystery Thriller Book,Books,16.99,4.5,2134,345
+P021,Exercise Ball,Sports,34.99,4.3,3210,210
+P022,Dinner Plates Set,Home & Kitchen,54.99,4.5,4321,234
+P023,Casual Shirt,Clothing,34.99,4.2,5432,432
+P024,Portable Charger,Electronics,39.99,4.6,8765,678
+P025,History Book,Books,29.99,4.4,1876,187
+P026,Tennis Racket,Sports,79.99,4.7,2987,198
+P027,Cookware Set,Home & Kitchen,149.99,4.6,5678,234
+P028,Winter Jacket,Clothing,129.99,4.5,4321,210
+P029,Webcam HD,Electronics,49.99,4.3,6543,345
+P030,Biography Book,Books,24.99,4.6,1654,165
+P031,Jump Rope,Sports,14.99,4.4,3210,321
+P032,Toaster,Home & Kitchen,44.99,4.2,4567,345
+P033,Sweater,Clothing,49.99,4.5,5432,432
+P034,Keyboard Mechanical,Electronics,89.99,4.7,7654,456
+P035,Self-Help Book,Books,19.99,4.5,2345,345
+P036,Basketball,Sports,29.99,4.3,3456,234
+P037,Microwave Oven,Home & Kitchen,179.99,4.6,6789,234
+P038,Dress Pants,Clothing,69.99,4.4,4321,321
+P039,Monitor 24 inch,Electronics,199.99,4.8,8765,345
+P040,Fantasy Novel,Books,17.99,4.6,2134,234
+P041,Swim Goggles,Sports,19.99,4.2,2987,298
+P042,Vacuum Cleaner,Home & Kitchen,129.99,4.5,7654,345
+P043,Sneakers,Clothing,79.99,4.6,6543,543
+P044,External SSD 1TB,Electronics,119.99,4.7,5432,432
+P045,Cookbook Italian,Books,34.99,4.5,1765,176
+P046,Foam Roller,Sports,24.99,4.4,3210,210
+P047,Air Fryer,Home & Kitchen,99.99,4.7,8765,567
+P048,Cardigan,Clothing,54.99,4.3,4321,321
+P049,Smartphone Stand,Electronics,16.99,4.2,5432,543
+P050,Programming Guide,Books,44.99,4.8,2345,345

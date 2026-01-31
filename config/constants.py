@@ -1,0 +1,61 @@
+"""
+Constants for the E-Commerce Recommendation System
+Centralized location for all constant values
+"""
+
+# Interaction Types
+INTERACTION_VIEW = 'view'
+INTERACTION_PURCHASE = 'purchase'
+INTERACTION_ADD_TO_CART = 'add_to_cart'
+INTERACTION_WISHLIST = 'wishlist'
+
+VALID_INTERACTION_TYPES = [
+    INTERACTION_VIEW,
+    INTERACTION_PURCHASE,
+    INTERACTION_ADD_TO_CART,
+    INTERACTION_WISHLIST
+]
+
+# Product Categories
+CATEGORY_ELECTRONICS = 'Electronics'
+CATEGORY_CLOTHING = 'Clothing'
+CATEGORY_BOOKS = 'Books'
+CATEGORY_HOME_KITCHEN = 'Home & Kitchen'
+CATEGORY_SPORTS = 'Sports'
+
+VALID_CATEGORIES = [
+    CATEGORY_ELECTRONICS,
+    CATEGORY_CLOTHING,
+    CATEGORY_BOOKS,
+    CATEGORY_HOME_KITCHEN,
+    CATEGORY_SPORTS
+]
+
+# Rating Constants
+MIN_RATING = 0.0
+MAX_RATING = 5.0
+
+# Trending Score Weights
+TRENDING_WEIGHT_VIEWS = 0.3
+TRENDING_WEIGHT_PURCHASES = 0.5
+TRENDING_WEIGHT_RATING = 0.2
+TRENDING_RATING_MULTIPLIER = 100
+
+# API Response Messages
+MSG_SUCCESS = 'success'
+MSG_ERROR = 'error'
+MSG_NOT_FOUND = 'Resource not found'
+MSG_INVALID_INPUT = 'Invalid input'
+MSG_INTERNAL_ERROR = 'Internal server error'
+
+# HTTP Status Codes
+HTTP_OK = 200
+HTTP_CREATED = 201
+HTTP_BAD_REQUEST = 400
+HTTP_NOT_FOUND = 404
+HTTP_INTERNAL_ERROR = 500
+
+# Validation Regex Patterns
+PRODUCT_ID_PATTERN = r'^P\d{3}$'
+USER_ID_MIN_LENGTH = 1
+USER_ID_MAX_LENGTH = 100
